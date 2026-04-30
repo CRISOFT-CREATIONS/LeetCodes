@@ -1,3 +1,4 @@
+// Accepted solution
 package Arrays;
 
 public class TwoSum {
